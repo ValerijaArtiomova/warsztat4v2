@@ -15,10 +15,10 @@
 </style>
 
 # Przykladowa strona
-Witaj na mojej </br>
+Witaj na mojej <br>
 super stronie
 
-Wciecie</br>
+Wciecie<br>
 w tekscie
 
 Tabela

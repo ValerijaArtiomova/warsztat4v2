@@ -20,7 +20,7 @@ w tekscie
 
 Tabela
 ## Tabela
-<table id='tabela' border="1">
+<table id="tabela" border="1">
   <tr>
     <th>Pon</th>
     <th>Wt</th>
@@ -40,4 +40,4 @@ Tabela
 ### Link
 [Link do stepik](https://stepik.org/)
 
-![pct/smacznejkawusi.jpg](pct/smacznejkawusi.jpg) {#obrazek}
+<img src='pct/smacznejkawusi.jpg' id="obrazek">

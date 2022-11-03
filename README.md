@@ -1,9 +1,10 @@
 <style>
-.tabela
+#table123
 {
+    border-color: red;
     text-align: center;
 }
-.obrazek 
+#obrazek 
 {
     height: 450px;
     width: 250px;
@@ -19,7 +20,7 @@ w tekscie
 
 Tabela
 ## Tabela
-<table id="tabela" border="1">
+<table id="table123" border="1">
   <tr>
     <th>Pon</th>
     <th>Wt</th>

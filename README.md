@@ -1,1 +1,19 @@
-# warsztat4v2
+# Przykladowa strona
+Witaj na mojej </br>
+super stronie
+
+Wciecie</br>
+w tekscie
+
+Tabela
+## Tabela
+|Czwartek|Piatek|Sobota|
+|:----------:|:----:|:---:|
+|Angielski   |Sieci |-    |
+|Wstep progr |Matma |-    |
+|-           |Sieci |-    |
+
+### Link
+[Link do stepik](https://stepik.org/)
+
+![pct/smacznejkawusi.jpg](pct/smacznejkawusi.jpg)

@@ -1,7 +1,6 @@
 <style>
 .tabela
 {
-    border-color: red;
     text-align: center;
 }
 .obrazek 

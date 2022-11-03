@@ -1,10 +1,7 @@
 <style>
 #tabela
 {
-    width: 450px;
-    height: 250px;
     border-color: red;
-    padding: 5px;
     text-align: center;
 }
 #obrazek 
